@@ -43,7 +43,7 @@ Cada time possui:
 
 ## 🖼️ Visual do projeto
 
-Você pode ver o site funcionando [clicando aqui](https://machadorsbr.github.io/Novo_layout_wikipedia/) *(caso esteja usando GitHub Pages)*.
+Você pode ver o site funcionando [clicando aqui](https://machadorsbr.github.io/Novo_layout_wikipedia/) 
 
 ---
 
